@@ -6,3 +6,9 @@ It is made for a confortable use in daylight work with vibrant colors and a "sha
 ## Suggestions/Bugs
 
 Please, let me know if you have some suggestions or if you see some visual inconsistencies.  
+
+## FAQ
+
+### Is the icon AI generated ?
+
+Yes, with Midjourney.
