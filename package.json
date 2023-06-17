@@ -1,0 +1,21 @@
+{
+  "name": "borealsharp",
+  "displayName": "BorealSharp",
+  "description": "Light/Gray mode with vibrant colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BorealSharp",
+        "uiTheme": "vs",
+        "path": "./themes/BorealSharp-color-theme.json"
+      }
+    ]
+  }
+}
